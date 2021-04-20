@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC2sooVbjysJXfUi5si-UMtg)](https://www.youtube.com/channel/UC2sooVbjysJXfUi5si-UMtg)
+ 
 <!--
 **drow724/drow724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
