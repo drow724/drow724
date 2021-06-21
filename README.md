@@ -12,6 +12,7 @@ Energy and persistence conquer all things.
 
 - Java
 - Spring
+- React
 ## Portfolio
 
 ## Social
