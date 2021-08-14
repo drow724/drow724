@@ -17,14 +17,15 @@ Energy and persistence conquer all things.
 - HTML + CSS + JavaScript
 
     https://drow724.github.io/Blog/
-
+    
 - JavaServlet + JSP
 
-    https://github.com/drow724/Chat
+    http://34.64.253.179:8080/Chat/index
 
 - Spring Legacy
 
-    https://github.com/drow724/WolfGang
+    http://34.64.253.179:8080/WolfGang/home
+    
 ## Social
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC2sooVbjysJXfUi5si-UMtg)](https://www.youtube.com/channel/UC2sooVbjysJXfUi5si-UMtg)
 <a href="https://www.instagram.com/jung1_song/">
