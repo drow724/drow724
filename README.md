@@ -11,8 +11,8 @@ Energy and persistence conquer all things.
 ## Stack
 
 - Java
-- Spring
-- React
+- Spring Legacy
+- Spring Boot
 ## Portfolio
 - HTML + CSS + JavaScript
 
