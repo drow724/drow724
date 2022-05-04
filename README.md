@@ -23,11 +23,11 @@ Energy and persistence conquer all things.
 # Portfolio
 
 ## BackEnd
-- National Institute For Unification Education <br>
+- National Institute For Unification Education (Spring Legacy)<br>
     https://www.uniedu.go.kr/
 
 ## FrontEnd
-- Fake Log Project <br>
+- Fake Log Project (Vue.js) <br>
     https://drow724.github.io/v-con/
 
 <!--
