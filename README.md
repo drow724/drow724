@@ -12,21 +12,21 @@ Energy and persistence conquer all things.
 
 ## Stack
 
-#BackEnd
+# BackEnd
 - Java
 - Spring Legacy
 - Spring Boot
 
-#FrontEnd
+# FrontEnd
 - Vue.js
 - 
 ## Portfolio
 
-#BackEnd
+# BackEnd
 -National Institute For Unification Education
 https://www.uniedu.go.kr/
 
-#FrontEnd
+# FrontEnd
 - Fake Log Project
 https://drow724.github.io/v-con/
 
