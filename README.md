@@ -23,12 +23,12 @@ Energy and persistence conquer all things.
 # Portfolio
 
 ## BackEnd
--National Institute For Unification Education <br>
-https://www.uniedu.go.kr/
+- National Institute For Unification Education <br>
+    https://www.uniedu.go.kr/
 
 ## FrontEnd
 - Fake Log Project <br>
-https://drow724.github.io/v-con/
+    https://drow724.github.io/v-con/
 
 <!--
 **drow724/drow724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
