@@ -27,7 +27,7 @@ Energy and persistence conquer all things.
     https://www.uniedu.go.kr/
 
 ## FrontEnd
-- Fake Log Project (Vue.js) <br>
+- Fake Spring Application Log Project (Vue.js) <br>
     https://drow724.github.io/v-con/
 
 <!--
