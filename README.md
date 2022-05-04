@@ -12,11 +12,24 @@ Energy and persistence conquer all things.
 
 ## Stack
 
+#BackEnd
 - Java
 - Spring Legacy
 - Spring Boot
+
+#FrontEnd
+- Vue.js
+- 
 ## Portfolio
-   
+
+#BackEnd
+-National Institute For Unification Education
+https://www.uniedu.go.kr/
+
+#FrontEnd
+- Fake Log Project
+https://drow724.github.io/v-con/
+
 <!--
 **drow724/drow724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
