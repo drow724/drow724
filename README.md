@@ -8,24 +8,6 @@ Energy and persistence conquer all things.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## BackEnd
-- Java
-- Spring Legacy
-- Spring Boot
-
-## FrontEnd
-- Vue.js
-
-# Portfolio
-
-## BackEnd
-- National Institute For Unification Education (Spring Legacy)<br>
-    https://www.uniedu.go.kr/
-
-## FrontEnd
-- Fake Spring Application Log Project (Vue.js) <br>
-    https://drow724.github.io/v-con/
-
 <!--
 **drow724/drow724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
